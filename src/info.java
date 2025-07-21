@@ -1,6 +1,6 @@
 public class info {
     public static void main(String[] args) {
-        System.out.println("dungnehehegitikehihi");
+        System.out.println("dungikehihi");
         hihih a = new hihih();
     }
 }
